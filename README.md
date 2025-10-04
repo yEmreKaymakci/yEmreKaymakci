@@ -32,7 +32,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: yunusemrekymkci@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yunusemrekaymakci](https://www.linkedin.com/in/yunusemrekaymakc%C4%B1/)  
+- 💼 LinkedIn: [linkedin.com/in/yunusemrekaymakci](https://www.linkedin.com/in/yunusemrekaymakci/)  
 - 🛠 GitHub: [github.com/yEmreKaymakci](https://github.com/yEmreKaymakci)
 
 ---
