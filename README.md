@@ -23,10 +23,12 @@
 
 ## 📚 Education
 
-- 🎓 **Ege University** – High School Diploma *(Expected: 2026)*  
-- 🧩 Certificate:
--- CS50x – Harvard University (01/2025)  
--- 🧠 ML & Algorithms Training – Ege University (11/2024)
+ 🎓 **Ege University** – High School Diploma *(Expected: 2026)*  
+ 
+ 🧩 Certificate:
+- CS50x – Harvard University (01/2025)  
+- 🧠 ML & Algorithms Training – Ege University (11/2024)
+- Introduction to Programming with C# - AkademIQ (11/2025)
 
 ---
 
